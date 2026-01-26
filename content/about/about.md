@@ -4,3 +4,9 @@
 ### Illustrative Data Elements for Housing
 - all relevant ordinances implementing California Housing Community Develeopment guidelines for annual municipal reporting
 - timestamped components of permitting or inspecting any aspect of municipal housing
+- Permit pipeline metadata 
+    - allow analyis of progress of individual permit requests through the various stages of the pipeline
+    - show references to the law cited as foundation of the permit request
+      - AB2011
+      - SB79
+      - SB330
