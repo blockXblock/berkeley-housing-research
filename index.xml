@@ -6,6 +6,12 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>about</title>
+    <link>https://quartz.jzhao.xyz/about/about</link>
+    <guid>https://quartz.jzhao.xyz/about/about</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 26 Jan 2026 20:34:51 GMT</pubDate>
+  </item><item>
     <title>Data-Loading-Code</title>
     <link>https://quartz.jzhao.xyz/documentation/Data-Loading-Code</link>
     <guid>https://quartz.jzhao.xyz/documentation/Data-Loading-Code</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/research/clariti/API_Requirements_Berkeley</link>
     <guid>https://quartz.jzhao.xyz/research/clariti/API_Requirements_Berkeley</guid>
     <description><![CDATA[ Clariti API Requirements for City of Berkeley Civic Data Science &amp; Smart City Analytics Date: 2026-01-14 Prepared by: Berkeley Housing Data Science Project Purpose: Enable comprehensive urban analytics, research, and public transparency 1. ]]></description>
-    <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
-  </item><item>
-    <title>research_questions</title>
-    <link>https://quartz.jzhao.xyz/research/clariti/research_questions</link>
-    <guid>https://quartz.jzhao.xyz/research/clariti/research_questions</guid>
-    <description><![CDATA[ Clariti Research Questions About Clariti What is Clariti’s full product suite? What cities currently use Clariti? What API capabilities do they offer? Do they have public API documentation? What data formats do they support? Current Implementations Which cities have public-facing Clariti APIs? Are t... ]]></description>
     <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
   </item>
     </channel>
