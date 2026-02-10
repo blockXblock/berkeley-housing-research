@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Quartz 4</title>
+      <title>Build Berkeley APR</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on Quartz 4</description>
+      <description>Last 10 notes on Build Berkeley APR</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>about</title>
     <link>https://quartz.jzhao.xyz/about/about</link>
     <guid>https://quartz.jzhao.xyz/about/about</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 26 Jan 2026 20:34:51 GMT</pubDate>
+    <description><![CDATA[ Berkeley Housing Research Framework for Open Berkeley Data Evolve a general data framework for municipalities to open all aspects of their permitting pipeline for access by data science analysts, general data science instruction, and the general public Illustrative Data Elements for Housing all rele... ]]></description>
+    <pubDate>Mon, 26 Jan 2026 23:22:22 GMT</pubDate>
   </item><item>
     <title>Data-Loading-Code</title>
     <link>https://quartz.jzhao.xyz/documentation/Data-Loading-Code</link>
