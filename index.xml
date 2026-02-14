@@ -6,6 +6,18 @@
       <description>Last 10 notes on Build Berkeley APR with Open Jupyter Notebooks</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Berkeley Housing Data Science Platform</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Berkeley Housing Data Science Analyzing housing development and permits in Berkeley, California. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 22:50:41 GMT</pubDate>
+  </item><item>
+    <title>Jupyter Notebooks</title>
+    <link>https://quartz.jzhao.xyz/notebooks/</link>
+    <guid>https://quartz.jzhao.xyz/notebooks/</guid>
+    <description><![CDATA[ Computational Notebooks Interactive Jupyter notebooks for Berkeley housing analysis. ]]></description>
+    <pubDate>Sat, 14 Feb 2026 22:50:41 GMT</pubDate>
+  </item><item>
     <title>Berkeley Data Assets</title>
     <link>https://quartz.jzhao.xyz/Berkeley-Data-Assets</link>
     <guid>https://quartz.jzhao.xyz/Berkeley-Data-Assets</guid>
@@ -48,22 +60,10 @@
     <description><![CDATA[ Test Scripts Code Tags: code testing run_test.sh - Interactive Testing #!/bin/bash TEST_BASE=&quot;$HOME/berkeley-housing-test&quot; TEST_DATE=$(date +%Y%m%d_%H%M%S) TEST_DIR=&quot;$TEST_BASE/test-runs/run_${TEST_DATE}&quot; echo &quot;🧪 Creating test environment: $TEST_DIR&quot; # Create structure... ]]></description>
     <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
   </item><item>
-    <title>Berkeley Housing Data Science Platform</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Berkeley Housing Data Science Analyzing housing development and permits in Berkeley, California. ]]></description>
-    <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
-  </item><item>
     <title>findings</title>
     <link>https://quartz.jzhao.xyz/research/clariti-opengov-comparison/findings</link>
     <guid>https://quartz.jzhao.xyz/research/clariti-opengov-comparison/findings</guid>
     <description><![CDATA[ Clariti and OpenGov Implementation Research Date: 2026-01-14 CLARITI RESEARCH Company Background Clariti (based in Canada) Full name: Clariti Inc. ]]></description>
-    <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
-  </item><item>
-    <title>research_plan</title>
-    <link>https://quartz.jzhao.xyz/research/clariti-opengov-comparison/research_plan</link>
-    <guid>https://quartz.jzhao.xyz/research/clariti-opengov-comparison/research_plan</guid>
-    <description><![CDATA[ Clariti vs OpenGov Research Plan Research Questions Clariti (Berkeley’s Choice) What cities currently use Clariti? Do any have public APIs? What’s their data model? Canadian origin - any US implementations? What’s their track record? OpenGov (SF’s Choice - PermitSF) PermitSF implementation details S... ]]></description>
     <pubDate>Mon, 26 Jan 2026 19:41:30 GMT</pubDate>
   </item>
     </channel>
