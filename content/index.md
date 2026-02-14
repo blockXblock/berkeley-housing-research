@@ -16,3 +16,11 @@ title: Berkeley Housing Data Science Platform
 
 ## About
 - [About This Project](about/index.md)
+
+## 💻 Computational Notebooks
+
+Explore our collection of 12+ Jupyter notebooks:
+
+- [Browse All Notebooks](/notebooks)
+- [Launch in Browser](https://mybinder.org/v2/gh/blockXblock/berkeley-housing-analysis/main) (Binder)
+- [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis)
