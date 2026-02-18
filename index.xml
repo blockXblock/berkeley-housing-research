@@ -6,6 +6,12 @@
       <description>Last 10 notes on Build Berkeley APR with Open Jupyter Notebooks</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>about</title>
+    <link>https://quartz.jzhao.xyz/about/about</link>
+    <guid>https://quartz.jzhao.xyz/about/about</guid>
+    <description><![CDATA[ Berkeley Housing Research This set of notebooks complement and support the City of Berkeley Housing Annual Progress Report, to be submitted in March, 2026, to CA Housing and Community Development per legal requirement. ]]></description>
+    <pubDate>Wed, 18 Feb 2026 01:28:29 GMT</pubDate>
+  </item><item>
     <title>A1: Data Sources Setup</title>
     <link>https://quartz.jzhao.xyz/notebooks/data-collection/A1-data-sources</link>
     <guid>https://quartz.jzhao.xyz/notebooks/data-collection/A1-data-sources</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Berkeley-Data-Assets</link>
     <guid>https://quartz.jzhao.xyz/Berkeley-Data-Assets</guid>
     <description><![CDATA[ Berkeley already publishes most of the ingredients for a structure‑by‑structure “digital twin”; the work is to harvest, normalize, and join them into a parcel‑centric knowledge graph keyed by APN and address.[1][2][3] Overall ingestion and data model Anchor everything on a master parcels table (one ... ]]></description>
-    <pubDate>Tue, 10 Feb 2026 19:12:02 GMT</pubDate>
-  </item><item>
-    <title>about</title>
-    <link>https://quartz.jzhao.xyz/about/about</link>
-    <guid>https://quartz.jzhao.xyz/about/about</guid>
-    <description><![CDATA[ Berkeley Housing Research Framework for Open Berkeley Data Evolve a general data framework for municipalities to open all aspects of their permitting pipeline for access by data science analysts, general data science instruction, and the general public Here’s a first-pass at building a suite of JN t... ]]></description>
     <pubDate>Tue, 10 Feb 2026 19:12:02 GMT</pubDate>
   </item>
     </channel>
