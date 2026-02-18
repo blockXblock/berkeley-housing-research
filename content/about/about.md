@@ -1,4 +1,14 @@
 # Berkeley Housing Research
+
+This set of notebooks complement and support the City of Berkeley Housing Annual Progress Report, to be submitted in March, 2026, to CA Housing and Community Development per legal requirement.
+
+Notebooks connect to the Berkeley Open Data Portal API to download permit and inspection data.
+
+These notebooks are designed to extend and quantify the 2019 and 2023 Terner Center "Making It Pencil" series by David Garcia. 
+
+The Terner Center created an illustrative website examining a small set of alternative options available to developers to make their projects "pencil out", but failed to present their calculations or allow modifications of their basic assumptions.  
+
+Building computational notebooks for every potential project in Berkeley will extend the Terner Center's vision, and enrich each potential developer's analysis. 
 ## Framework for Open Berkeley Data 
 - Evolve a general data framework for municipalities to open all aspects of their permitting pipeline for access by data science analysts, general data science instruction, and the general public
 - [Here's a first-pass at building a suite of JN to create the Annual Public Report for every city in California. ](https://colab.research.google.com/github/blockXblock/berkeley-housing-analysis/blob/main/notebooks/MASTER_ANALYSIS.ipynb#scrollTo=mR71p5MPDVqJ)
