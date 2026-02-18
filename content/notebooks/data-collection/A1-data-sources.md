@@ -11,6 +11,8 @@ title: "A1: Data Sources Setup"
 ## 📋 Overview
 
 Sets up connections to Berkeley Open Data Portal and configures API access for downloading permit data.
+### This set of notebooks complement and support the City of Berkeley Annual Progress Update, to be submitted in March, 2026, to CA HCD per legal requirement. With adequate data upload access, we can replace the City's APR.
+#### These notebooks are designed to extend the 2019 and 2023 Terner Center "Making It Pencil" series by David Garcia. The Terner Center created an illustrative website examining a small set of alternative options available to developers, but failed to present their calculations, choosing to show project facts: ft^2, units, rents, parking requirements, but not how they calculated whether the project was likely to be built. We can extend the Terner Center's vision by building computational notebooks for every potential project in Berkeley, both in and out of Berkeley's Permit PIpeline.
 
 ## 🎯 What You'll Learn
 
