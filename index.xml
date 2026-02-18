@@ -10,49 +10,49 @@
     <link>https://quartz.jzhao.xyz/notebooks/data-collection/A1-data-sources</link>
     <guid>https://quartz.jzhao.xyz/notebooks/data-collection/A1-data-sources</guid>
     <description><![CDATA[ A1: Data Sources Setup Workflow: Data Collection Level: Beginner Time: 30 minutes 📋 Overview Sets up connections to Berkeley Open Data Portal and configures API access for downloading permit data. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:44:46 GMT</pubDate>
+  </item><item>
+    <title>Berkeley Housing Data Science Platform</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Berkeley Housing Data Science Analyzing housing development and permits in Berkeley, California. ]]></description>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>A2: Address Standardization</title>
     <link>https://quartz.jzhao.xyz/notebooks/data-collection/A2-address-standardization</link>
     <guid>https://quartz.jzhao.xyz/notebooks/data-collection/A2-address-standardization</guid>
     <description><![CDATA[ A2: Address Standardization Workflow: Data Collection Level: Intermediate Time: 45 minutes 📋 Overview Cleans and standardizes messy address data from building permits to prepare for geocoding. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>A3: Geocoding Pipeline</title>
     <link>https://quartz.jzhao.xyz/notebooks/data-collection/A3-geocoding</link>
     <guid>https://quartz.jzhao.xyz/notebooks/data-collection/A3-geocoding</guid>
     <description><![CDATA[ A3: Geocoding Pipeline Workflow: Data Collection Level: Intermediate Time: 30 minutes 📋 Overview Converts Berkeley addresses to latitude/longitude coordinates using Alameda County’s comprehensive address database. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>B1: Lifecycle Tracking</title>
     <link>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B1-lifecycle</link>
     <guid>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B1-lifecycle</guid>
     <description><![CDATA[ B1: Lifecycle Tracking Workflow: Timeline Tracking Level: Intermediate Time: 45 minutes 📋 Overview Tracks housing projects from initial proposal through completion, calculating timeline durations and identifying bottlenecks. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>B2: Status Classification</title>
     <link>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B2-status</link>
     <guid>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B2-status</guid>
     <description><![CDATA[ B2: Status Classification Workflow: Timeline Tracking Level: Beginner Time: 30 minutes 📋 Overview Standardizes inconsistent status descriptions from permit records into clean, analyzable categories. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>B3: Progress Indicators</title>
     <link>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B3-progress</link>
     <guid>https://quartz.jzhao.xyz/notebooks/timeline-tracking/B3-progress</guid>
     <description><![CDATA[ B3: Progress Indicators Workflow: Timeline Tracking Level: Advanced Time: 60 minutes 📋 Overview Calculates quantitative progress metrics for housing projects and identifies stalled or delayed developments. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 20:03:16 GMT</pubDate>
+    <pubDate>Wed, 18 Feb 2026 00:07:39 GMT</pubDate>
   </item><item>
     <title>Jupyter Notebooks</title>
     <link>https://quartz.jzhao.xyz/notebooks/</link>
     <guid>https://quartz.jzhao.xyz/notebooks/</guid>
     <description><![CDATA[ Computational Notebooks Interactive Jupyter notebooks for Berkeley housing analysis. ]]></description>
     <pubDate>Sat, 14 Feb 2026 23:26:37 GMT</pubDate>
-  </item><item>
-    <title>Berkeley Housing Data Science Platform</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Berkeley Housing Data Science Analyzing housing development and permits in Berkeley, California. ]]></description>
-    <pubDate>Sat, 14 Feb 2026 22:50:41 GMT</pubDate>
   </item><item>
     <title>Berkeley Data Assets</title>
     <link>https://quartz.jzhao.xyz/Berkeley-Data-Assets</link>
