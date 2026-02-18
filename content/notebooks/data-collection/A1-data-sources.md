@@ -68,4 +68,4 @@ This notebook teaches a critical data science skill: **working around API limita
 
 ---
 
-[← Back to Notebooks](/notebooks) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/A_data_collection/A1_data_sources_setup.ipynb)
+[← Back to Notebooks](Project-Tool-1%20-%20Net%20Present%20Value.md) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/A_data_collection/A1_data_sources_setup.ipynb)

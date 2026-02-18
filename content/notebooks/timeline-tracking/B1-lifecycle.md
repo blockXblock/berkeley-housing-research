@@ -128,4 +128,4 @@ jupyter notebook workflows/B_timeline_tracking/B1_lifecycle_tracking.ipynb
 
 ---
 
-[← Back to Notebooks](/notebooks) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/B_timeline_tracking/B1_lifecycle_tracking.ipynb)
+[← Back to Notebooks](Project-Tool-1%20-%20Net%20Present%20Value.md) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/B_timeline_tracking/B1_lifecycle_tracking.ipynb)

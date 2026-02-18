@@ -21,6 +21,6 @@ title: Berkeley Housing Data Science Platform
 
 Explore our collection of 12+ Jupyter notebooks:
 
-- [Browse All Notebooks](/notebooks)
+- [Browse All Notebooks](Project-Tool-1%20-%20Net%20Present%20Value.md)
 - [Launch in Browser](https://mybinder.org/v2/gh/blockXblock/berkeley-housing-analysis/main) (Binder)
 - [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis)

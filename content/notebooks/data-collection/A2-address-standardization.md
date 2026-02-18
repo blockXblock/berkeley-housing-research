@@ -93,4 +93,4 @@ Address standardization is **critical** for geocoding success. Berkeley achieved
 
 ---
 
-[← Back to Notebooks](/notebooks) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/A_data_collection/A2_address_standardization.ipynb)
+[← Back to Notebooks](Project-Tool-1%20-%20Net%20Present%20Value.md) | [View on GitHub](https://github.com/blockXblock/berkeley-housing-analysis/blob/main/workflows/A_data_collection/A2_address_standardization.ipynb)
